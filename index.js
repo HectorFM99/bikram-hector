@@ -93,11 +93,11 @@ let valorResta = MiNumeroFav - variableValorNumerico;
 
 
 // 22
-let valorMultiplicación = MiNumeroFav * variableValorNumerico;
+let valorMultiplicacion = MiNumeroFav * variableValorNumerico;
 
 
 // 23
-let valorDivisión = MiNumeroFav / 3;
+let valorDivision = MiNumeroFav / 3;
 
 
 // 24
